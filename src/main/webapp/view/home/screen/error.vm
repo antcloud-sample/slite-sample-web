@@ -1,0 +1,6 @@
+<h2>system error page</h2>
+Please replace this default page in your project.
+<br><br>
+<Strong>ERR TYPE:</Strong> $!{messageCode}
+<br><br>
+<Strong>ERR MSG:</Strong>  ${exception_marking}
